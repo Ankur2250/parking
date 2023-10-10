@@ -1,0 +1,30 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 640px;
+}
+#login h2{
+    text-align: center;
+}
+#header{
+    background-color: aqua;
+}
+#logout{
+    display: flex;
+    margin-left: 300px;
+}
+#welcome{
+    margin-left: 300px;
+}
+#footer h4{
+    text-align: center;
+}
+#footer{
+    background-color: aqua
+}
+
+
+
+#mid table{
+    background-color: blueviolet;
+}
